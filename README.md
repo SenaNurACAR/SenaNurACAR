@@ -14,10 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 hizalama="merkez">
-  Welcome to my GitHub Page
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
-<h5> </h5>
 
-
-<div align="center"> <img src="https://github.com/SenaNurACAR/SenaNurACAR/blob/output/github-contribution-grid-snake.svg" /></div>
